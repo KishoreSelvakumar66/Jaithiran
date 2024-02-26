@@ -1,0 +1,424 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.top{
+     display: flex;
+     
+   }
+.det{
+      display: flex;
+      padding-left:10%;
+
+}
+.det h4{
+      margin-top: 20px;
+      margin-left:50px;
+      margin-right:10px;
+}
+.cl{
+      position: sticky;
+      top: 0;
+      z-index: 100;
+}
+.num{
+     margin:auto;
+      display: flex;
+      padding-left:10%;
+      justify-content:end;
+      align-items: center;
+  }
+  .num h4:hover{
+             color: aquamarine;
+  }
+  .num a{
+       text-decoration: none;
+  }
+  .det h4:hover{
+          color: aquamarine;
+  }
+  .num img.call{
+      width: 30px;
+      height: 30px;
+      margin: 15px;
+     
+} 
+  img.mail{
+      width: 30px;
+      height: 30px;
+      margin: 15px;
+}
+.met{
+      margin: 20px;
+      margin-left: 50px;
+}
+.men{
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+      
+
+}
+.men h1{
+      color:rgb(4, 92, 95);
+      font-size: 50px;
+     
+}
+.link{
+    display: flex;
+   
+  
+}
+.link h2{ 
+   padding-right:20px;   
+}
+.men{ 
+     padding:20px;
+ 
+}
+.cl{
+    background-color:lightskyblue;
+    height: 90px;
+}
+.men a{
+    text-decoration: none;
+    color:black;
+}
+.link a:hover{
+         color:darkseagreen;
+}
+.app{
+     text-decoration:none;
+      color:black;
+}
+.app a:hover{
+       color:seashell;
+}
+.slide img{
+      width: 100%;
+      height:75vh;
+}
+.op{
+      text-align: center;
+      margin-top: 50px;
+      
+}
+.dcs{ 
+         justify-content: space-evenly;     
+         display: flex;
+         margin-bottom: 50px;
+         margin-top: 50px;
+        
+}
+.dcs img{
+         width: 220px; 
+         height: 180px;
+         position: relative;
+          
+}
+.dc1{
+      border-style: groove;
+      text-align: center;
+      color:darkcyan;
+     
+}
+#Dc1{
+      margin-top: 40px;
+      margin-bottom: 30px;
+      text-align: center;
+      font-size:300%;
+      color: cornflowerblue;
+      font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+}
+.serv h1{
+      text-align: center;
+      margin-bottom: 50px;
+      font-size: 250%;
+      color:aquamarine;
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.serv h2{
+         text-align: center;
+         margin-bottom: 30px;
+}
+.ig1 img{
+      float: right;
+      width: 400px; 
+      margin: 15px; 
+}
+.ig1 p{
+      text-align:justify;
+      font-size: 24px;
+      margin: 20px;
+      line-height:35px;
+}
+
+.ig2 img{
+         float:left;
+        width: 400px;
+        margin:15px;
+      
+}
+.ig2 p{
+      text-align:justify;
+      font-size: 24px;
+      margin: 20px;
+      line-height:35px;
+}
+.ig2{
+     margin-top: 100px;
+}
+.ig3 img{
+       float: right;
+       width: 400px;
+       margin: 15px;
+}
+.ig3{
+      margin-top: 100px;
+}
+.ig3 p{
+      text-align:justify;
+      font-size: 24px;
+      margin: 20px;
+      line-height:35px;
+}
+.ig4 img{
+         float: left;
+         width: 400px;
+         margin: 15px;
+}
+
+.ig4{
+      margin-top: 100px;
+
+}
+.ig4 p{
+      text-align:justify;
+      font-size: 24px;
+      margin: 20px;
+      line-height:35px;
+}
+.ig5 img{
+      float: right;
+      width: 400px;
+      margin: 15px;
+}
+.ig5{
+   margin-top: 100px;
+}
+.ig5 p{
+      text-align:justify;
+      font-size: 24px;
+      margin: 20px;
+      line-height:35px;
+}
+.ig6 img{
+      float: left;
+      width: 400px;
+      margin: 15px;
+}
+.ig6{
+   margin-top: 100px;
+}
+.ig6 p{
+      text-align:justify;
+      font-size: 24px;
+      margin: 20px;
+      line-height:35px;
+}
+.ig7 img{
+      float: right;
+      width: 400px;
+      height: 220px;
+      margin: 15px;
+}
+.ig7{
+   margin-top: 100px;
+}
+.ig7 p{
+      text-align:justify;
+      font-size: 24px;
+      margin: 20px;
+      line-height:35px;
+}
+.ig8 img{
+      float: left;
+      width: 400px;
+      margin: 15px;      
+}
+.ig8{
+   margin-top: 100px;
+   margin-bottom: 70px;
+}
+.ig8 p{
+      text-align:justify;
+      font-size: 24px;
+      margin: 20px;
+      line-height:35px;
+}
+
+.ca{
+         background-color:#87cefa;
+       display: flex;
+       justify-content: space-evenly;
+       height:470px;
+       width: 100%;
+      padding-top: 20px ;
+}
+.ca h1{
+        display: inline;
+       font-family: Georgia, 'Times New Roman', Times, serif;
+      
+}
+
+.icons img{
+          margin-left: 70PX;
+          border-radius: 50%;
+         
+}
+.icons img:hover{
+            width:60px;
+}
+
+.about-main{
+width: 50%;
+}
+.about-main h1{
+      margin: 100px;
+}
+
+.contact{
+      width: 50%;
+      text-align: center;
+}
+.about-main h2{
+      margin-top: 30px;
+}
+.map iframe{
+       margin:30px
+}
+.about p{
+          padding: 25px;
+          font-size:23px;
+          
+}
+.about img{
+        height:240px;
+        width: 70%;
+        margin-left: 50px;
+}
+.about-main h1:hover{
+      color: grey;
+}
+.contact h1:hover{
+                     color: grey;
+}
+.link1{
+      display: none;
+}
+.navbar{
+      display: flex;
+      flex-direction: row;
+}
+
+.link1 a{
+            
+text-decoration: none;
+color: black;
+}
+.link1 a:hover{
+      color: aqua;
+      text-decoration: underline;
+}
+
+
+/* Media Query for smaller screens */
+@media screen and (max-width: 768px) {
+      /* Header */
+      .top {
+        flex-direction: column;
+      }
+      .navbar{
+            display:none;
+            
+      }
+      .link1{
+            
+            display: flex;
+            flex-direction: row;
+            justify-content: space-around;
+      }
+      .link1 a{
+            padding-left: 20px;
+      }
+      
+      .det, .num {
+        justify-content: center;
+        text-align: center;
+      }
+      .num img.call, img.mail {
+        margin: 10px;
+      }
+    
+
+      .cl {
+        padding: 10px;
+      }
+      div.men h1{
+            font-size: 18px;
+      }
+      .men {
+           
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+      }
+      .link {
+             display: none;
+        flex-direction: column;
+      }
+      .app {
+        margin-top: 20px;
+      }
+    
+
+      .slide img {
+        height: auto;
+      }
+    
+
+      .dcs {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+      }
+      .dc1 {
+        margin-bottom: 30px;
+      }
+
+      .serv h1 {
+        font-size: 200%;
+      }
+      .ig1 img, .ig2 img, .ig3 img, .ig4 img, .ig5 img, .ig6 img, .ig7 img, .ig8 img {
+        width: 90%;
+      }
+    
+      
+      .ca {
+        flex-direction: column;
+        height: auto;
+      }
+      .about-main, .contact {
+        width: 100%;
+        text-align: center;
+      }
+      .map iframe {
+        width: 100%;
+        height: 300px;
+        margin: 20px 0;
+      }
+      .about img {
+        width: 80%;
+        margin: 20px auto;
+      }
+    }
