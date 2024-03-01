@@ -349,7 +349,9 @@ color: black;
             justify-content: space-around;
       }
       .link1 a{
+            font-size: 18px;
             padding-left: 20px;
+            color: blue;
       }
       
       .det, .num {
